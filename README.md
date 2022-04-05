@@ -1,10 +1,8 @@
 ### Hello there 👋
 
 
-**LucasBertoncell/LucasBertoncell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 I’m currently learning physics and a m
+- 🌱 I’m currently learning more about data structures and machine learning
 - 💬 Ask me about cosmology, blockchain and Big Data
+- 💻 Still organizing my code better into Github for better control
 
-
-# C, Python, Bash ;)
+#### C, Python, Bash ;)
