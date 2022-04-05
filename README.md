@@ -7,4 +7,4 @@
 - 💬 Ask me about cosmology, blockchain and Big Data
 
 
-#C, Python, Bash ;)
+# C, Python, Bash ;)
