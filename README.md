@@ -1,8 +1,7 @@
 ### Hello there 👋
 
+- 💻 Work account: 
+- 🌱 Currently learning more about blockchain solutions and Haskall
+- 💬 Ask me about Cosmology, Blockchain and Big Data
 
-- 🌱 I’m currently learning more about data structures and machine learning
-- 💬 Ask me about cosmology, blockchain and Big Data
-- 💻 Still organizing my code better into Github for better control
-
-#### C, Python, Bash ;)
+#### C/C++, Python, JavaScript, C#, .NET, MATLAB, Bash ;)
